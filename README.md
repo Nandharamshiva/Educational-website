@@ -1,1 +1,1 @@
-# Educational-website
+# HTML CSS AND JAVASCRIPT
